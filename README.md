@@ -6,7 +6,7 @@ This repository stores postcode-level Amber Electricity price data collected fro
 
 | Field | Value |
 |---|---|
-| Data obtained at | 2026-08-07T22:30:16.419080+10:00 |
+| Data obtained at | 2026-08-07T22:36:49.813279+10:00 |
 | Postcode | 2145 |
 | Network | Endeavour Energy |
 | Import tariff | N71 |
@@ -74,7 +74,7 @@ This repository stores postcode-level Amber Electricity price data collected fro
 | 2026-08-07T21:30:00+10:00 | 30.85024 | 13.34447 | 1.77 | veryLow | high |
 | 2026-08-07T22:00:00+10:00 | 30.54390 | 13.06599 | 1.86 | veryLow | high |
 | 2026-08-07T22:30:00+10:00 | 31.05801 | 13.53336 | 1.90 | veryLow | high |
-| 2026-08-07T23:00:00+10:00 | 30.64754 | 13.16020 | 2.09 | veryLow | high |
+| 2026-08-07T23:00:00+10:00 | 30.60699 | 13.12334 | 2.13 | veryLow | high |
 
 ## Files
 
