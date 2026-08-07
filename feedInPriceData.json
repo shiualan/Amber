@@ -22501,5 +22501,18 @@
     "perKwh": 13.1602,
     "renewables": 2.091,
     "descriptor": "high"
+  },
+  {
+    "postcode": "2145",
+    "networks": [
+      "Endeavour Energy"
+    ],
+    "direction": "feed_in",
+    "network": "Endeavour Energy",
+    "tariffCode": "NOTAPPLIC",
+    "nemTime": "2026-08-07T23:30:00+10:00",
+    "perKwh": 11.13298,
+    "renewables": 2.964,
+    "descriptor": "high"
   }
 ]
