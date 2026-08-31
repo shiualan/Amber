@@ -6,38 +6,26 @@ This repository stores postcode-level Amber Electricity price data collected fro
 
 | Field | Value |
 |---|---|
-| Data obtained at | 2026-08-31T23:33:24.755180+10:00 |
+| Data obtained at | 2026-09-01T05:33:19.334892+10:00 |
 | Postcode | 2145 |
 | Network | Endeavour Energy |
 | Import tariff | N71 |
 | Export/feed-in tariff | NOTAPPLIC |
-| Earliest NEM time in latest fetch | 2026-08-31T00:00:00+10:00 |
-| Latest NEM time in latest fetch | 2026-09-01T00:00:00+10:00 |
+| Earliest NEM time in latest fetch | 2026-08-31T06:00:00+10:00 |
+| Latest NEM time in latest fetch | 2026-09-01T06:00:00+10:00 |
 | Requested window | Past 24 hours |
 
 ## Latest 24-hour summary
 
 | Direction | Intervals | Min c/kWh | Average c/kWh | Max c/kWh |
 |---|---:|---:|---:|---:|
-| Import | 49 | 8.38 | 23.63 | 34.03 |
-| Export/feed-in | 49 | 0.12 | 7.39 | 12.77 |
+| Import | 49 | 8.38 | 22.82 | 34.03 |
+| Export/feed-in | 49 | 0.12 | 6.65 | 12.77 |
 
 ## Latest 24-hour interval prices
 
 | NEM time | Import c/kWh | Export c/kWh | Renewables % | Import descriptor | Export descriptor |
 |---|---:|---:|---:|---|---|
-| 2026-08-31T00:00:00+10:00 | 27.31537 | 10.13095 | 4.66 | veryLow | high |
-| 2026-08-31T00:30:00+10:00 | 27.60751 | 10.39654 | 4.64 | veryLow | high |
-| 2026-08-31T01:00:00+10:00 | 27.71578 | 10.49497 | 4.23 | veryLow | high |
-| 2026-08-31T01:30:00+10:00 | 27.53532 | 10.33091 | 3.74 | veryLow | high |
-| 2026-08-31T02:00:00+10:00 | 26.87356 | 9.72931 | 3.86 | veryLow | high |
-| 2026-08-31T02:30:00+10:00 | 27.57205 | 10.36430 | 3.96 | veryLow | high |
-| 2026-08-31T03:00:00+10:00 | 27.93755 | 10.69657 | 4.43 | veryLow | high |
-| 2026-08-31T03:30:00+10:00 | 27.71054 | 10.49020 | 4.51 | veryLow | high |
-| 2026-08-31T04:00:00+10:00 | 27.15769 | 9.98761 | 4.65 | veryLow | high |
-| 2026-08-31T04:30:00+10:00 | 26.09897 | 9.02514 | 4.81 | veryLow | high |
-| 2026-08-31T05:00:00+10:00 | 26.40695 | 9.30512 | 4.78 | veryLow | high |
-| 2026-08-31T05:30:00+10:00 | 27.09750 | 9.93289 | 4.65 | veryLow | high |
 | 2026-08-31T06:00:00+10:00 | 27.95036 | 10.70822 | 5.22 | veryLow | high |
 | 2026-08-31T06:30:00+10:00 | 27.61653 | 10.40474 | 5.72 | veryLow | high |
 | 2026-08-31T07:00:00+10:00 | 26.78121 | 9.64536 | 10.37 | veryLow | high |
@@ -74,7 +62,19 @@ This repository stores postcode-level Amber Electricity price data collected fro
 | 2026-08-31T22:30:00+10:00 | 26.69577 | 9.56768 | 4.59 | veryLow | high |
 | 2026-08-31T23:00:00+10:00 | 25.98246 | 8.91922 | 4.85 | veryLow | high |
 | 2026-08-31T23:30:00+10:00 | 25.81230 | 8.76452 | 5.11 | veryLow | high |
-| 2026-09-01T00:00:00+10:00 | 24.57953 | 7.64383 | 5.44 | veryLow | high |
+| 2026-09-01T00:00:00+10:00 | 24.27520 | 7.36716 | 5.40 | veryLow | high |
+| 2026-09-01T00:30:00+10:00 | 24.18607 | 7.28614 | 5.33 | veryLow | high |
+| 2026-09-01T01:00:00+10:00 | 23.83036 | 6.96276 | 5.86 | veryLow | high |
+| 2026-09-01T01:30:00+10:00 | 23.40857 | 6.57932 | 6.44 | veryLow | high |
+| 2026-09-01T02:00:00+10:00 | 23.52005 | 6.68066 | 6.51 | veryLow | high |
+| 2026-09-01T02:30:00+10:00 | 23.52129 | 6.68179 | 6.27 | veryLow | high |
+| 2026-09-01T03:00:00+10:00 | 23.77085 | 6.90866 | 5.97 | veryLow | high |
+| 2026-09-01T03:30:00+10:00 | 23.38347 | 6.55650 | 6.16 | veryLow | high |
+| 2026-09-01T04:00:00+10:00 | 23.83047 | 6.96287 | 6.39 | veryLow | high |
+| 2026-09-01T04:30:00+10:00 | 23.56390 | 6.72053 | 6.48 | veryLow | high |
+| 2026-09-01T05:00:00+10:00 | 24.30098 | 7.39060 | 6.29 | veryLow | high |
+| 2026-09-01T05:30:00+10:00 | 24.75644 | 7.80465 | 6.58 | veryLow | high |
+| 2026-09-01T06:00:00+10:00 | 25.27724 | 8.27811 | 6.95 | veryLow | high |
 
 ## Files
 
