@@ -51140,5 +51140,629 @@
     "perKwh": 11.32606,
     "renewables": 17.758,
     "descriptor": "high"
+  },
+  {
+    "postcode": "2145",
+    "networks": [
+      "Endeavour Energy"
+    ],
+    "direction": "feed_in",
+    "network": "Endeavour Energy",
+    "tariffCode": "NOTAPPLIC",
+    "nemTime": "2026-09-23T02:00:00+10:00",
+    "perKwh": 10.34237,
+    "renewables": 17.625,
+    "descriptor": "high"
+  },
+  {
+    "postcode": "2145",
+    "networks": [
+      "Endeavour Energy"
+    ],
+    "direction": "feed_in",
+    "network": "Endeavour Energy",
+    "tariffCode": "NOTAPPLIC",
+    "nemTime": "2026-09-23T02:30:00+10:00",
+    "perKwh": 10.61036,
+    "renewables": 17.511,
+    "descriptor": "high"
+  },
+  {
+    "postcode": "2145",
+    "networks": [
+      "Endeavour Energy"
+    ],
+    "direction": "feed_in",
+    "network": "Endeavour Energy",
+    "tariffCode": "NOTAPPLIC",
+    "nemTime": "2026-09-23T03:00:00+10:00",
+    "perKwh": 10.49467,
+    "renewables": 17.553,
+    "descriptor": "high"
+  },
+  {
+    "postcode": "2145",
+    "networks": [
+      "Endeavour Energy"
+    ],
+    "direction": "feed_in",
+    "network": "Endeavour Energy",
+    "tariffCode": "NOTAPPLIC",
+    "nemTime": "2026-09-23T03:30:00+10:00",
+    "perKwh": 10.68633,
+    "renewables": 17.264,
+    "descriptor": "high"
+  },
+  {
+    "postcode": "2145",
+    "networks": [
+      "Endeavour Energy"
+    ],
+    "direction": "feed_in",
+    "network": "Endeavour Energy",
+    "tariffCode": "NOTAPPLIC",
+    "nemTime": "2026-09-23T04:00:00+10:00",
+    "perKwh": 10.55523,
+    "renewables": 17.75,
+    "descriptor": "high"
+  },
+  {
+    "postcode": "2145",
+    "networks": [
+      "Endeavour Energy"
+    ],
+    "direction": "feed_in",
+    "network": "Endeavour Energy",
+    "tariffCode": "NOTAPPLIC",
+    "nemTime": "2026-09-23T04:30:00+10:00",
+    "perKwh": 10.80061,
+    "renewables": 17.348,
+    "descriptor": "high"
+  },
+  {
+    "postcode": "2145",
+    "networks": [
+      "Endeavour Energy"
+    ],
+    "direction": "feed_in",
+    "network": "Endeavour Energy",
+    "tariffCode": "NOTAPPLIC",
+    "nemTime": "2026-09-23T05:00:00+10:00",
+    "perKwh": 11.83107,
+    "renewables": 16.192,
+    "descriptor": "high"
+  },
+  {
+    "postcode": "2145",
+    "networks": [
+      "Endeavour Energy"
+    ],
+    "direction": "feed_in",
+    "network": "Endeavour Energy",
+    "tariffCode": "NOTAPPLIC",
+    "nemTime": "2026-09-23T05:30:00+10:00",
+    "perKwh": 13.28855,
+    "renewables": 15.405,
+    "descriptor": "high"
+  },
+  {
+    "postcode": "2145",
+    "networks": [
+      "Endeavour Energy"
+    ],
+    "direction": "feed_in",
+    "network": "Endeavour Energy",
+    "tariffCode": "NOTAPPLIC",
+    "nemTime": "2026-09-23T06:00:00+10:00",
+    "perKwh": 18.74484,
+    "renewables": 14.879999999999999,
+    "descriptor": "high"
+  },
+  {
+    "postcode": "2145",
+    "networks": [
+      "Endeavour Energy"
+    ],
+    "direction": "feed_in",
+    "network": "Endeavour Energy",
+    "tariffCode": "NOTAPPLIC",
+    "nemTime": "2026-09-23T06:30:00+10:00",
+    "perKwh": 20.26971,
+    "renewables": 18.089,
+    "descriptor": "high"
+  },
+  {
+    "postcode": "2145",
+    "networks": [
+      "Endeavour Energy"
+    ],
+    "direction": "feed_in",
+    "network": "Endeavour Energy",
+    "tariffCode": "NOTAPPLIC",
+    "nemTime": "2026-09-23T07:00:00+10:00",
+    "perKwh": 11.71186,
+    "renewables": 30.031999999999996,
+    "descriptor": "high"
+  },
+  {
+    "postcode": "2145",
+    "networks": [
+      "Endeavour Energy"
+    ],
+    "direction": "feed_in",
+    "network": "Endeavour Energy",
+    "tariffCode": "NOTAPPLIC",
+    "nemTime": "2026-09-23T07:30:00+10:00",
+    "perKwh": 8.48764,
+    "renewables": 45.286,
+    "descriptor": "high"
+  },
+  {
+    "postcode": "2145",
+    "networks": [
+      "Endeavour Energy"
+    ],
+    "direction": "feed_in",
+    "network": "Endeavour Energy",
+    "tariffCode": "NOTAPPLIC",
+    "nemTime": "2026-09-23T08:00:00+10:00",
+    "perKwh": 10.38792,
+    "renewables": 49.851,
+    "descriptor": "high"
+  },
+  {
+    "postcode": "2145",
+    "networks": [
+      "Endeavour Energy"
+    ],
+    "direction": "feed_in",
+    "network": "Endeavour Energy",
+    "tariffCode": "NOTAPPLIC",
+    "nemTime": "2026-09-23T08:30:00+10:00",
+    "perKwh": 10.2354,
+    "renewables": 55.567,
+    "descriptor": "high"
+  },
+  {
+    "postcode": "2145",
+    "networks": [
+      "Endeavour Energy"
+    ],
+    "direction": "feed_in",
+    "network": "Endeavour Energy",
+    "tariffCode": "NOTAPPLIC",
+    "nemTime": "2026-09-23T09:00:00+10:00",
+    "perKwh": 8.28555,
+    "renewables": 59.315,
+    "descriptor": "high"
+  },
+  {
+    "postcode": "2145",
+    "networks": [
+      "Endeavour Energy"
+    ],
+    "direction": "feed_in",
+    "network": "Endeavour Energy",
+    "tariffCode": "NOTAPPLIC",
+    "nemTime": "2026-09-23T09:30:00+10:00",
+    "perKwh": 6.81943,
+    "renewables": 61.72800000000001,
+    "descriptor": "high"
+  },
+  {
+    "postcode": "2145",
+    "networks": [
+      "Endeavour Energy"
+    ],
+    "direction": "feed_in",
+    "network": "Endeavour Energy",
+    "tariffCode": "NOTAPPLIC",
+    "nemTime": "2026-09-23T10:00:00+10:00",
+    "perKwh": 8.73592,
+    "renewables": 61.985,
+    "descriptor": "high"
+  },
+  {
+    "postcode": "2145",
+    "networks": [
+      "Endeavour Energy"
+    ],
+    "direction": "feed_in",
+    "network": "Endeavour Energy",
+    "tariffCode": "NOTAPPLIC",
+    "nemTime": "2026-09-23T10:30:00+10:00",
+    "perKwh": 10.51006,
+    "renewables": 60.687000000000005,
+    "descriptor": "high"
+  },
+  {
+    "postcode": "2145",
+    "networks": [
+      "Endeavour Energy"
+    ],
+    "direction": "feed_in",
+    "network": "Endeavour Energy",
+    "tariffCode": "NOTAPPLIC",
+    "nemTime": "2026-09-23T11:00:00+10:00",
+    "perKwh": 10.97673,
+    "renewables": 60.354,
+    "descriptor": "high"
+  },
+  {
+    "postcode": "2145",
+    "networks": [
+      "Endeavour Energy"
+    ],
+    "direction": "feed_in",
+    "network": "Endeavour Energy",
+    "tariffCode": "NOTAPPLIC",
+    "nemTime": "2026-09-23T11:30:00+10:00",
+    "perKwh": 11.71106,
+    "renewables": 60.553000000000004,
+    "descriptor": "high"
+  },
+  {
+    "postcode": "2145",
+    "networks": [
+      "Endeavour Energy"
+    ],
+    "direction": "feed_in",
+    "network": "Endeavour Energy",
+    "tariffCode": "NOTAPPLIC",
+    "nemTime": "2026-09-23T12:00:00+10:00",
+    "perKwh": 12.35579,
+    "renewables": 60.057,
+    "descriptor": "high"
+  },
+  {
+    "postcode": "2145",
+    "networks": [
+      "Endeavour Energy"
+    ],
+    "direction": "feed_in",
+    "network": "Endeavour Energy",
+    "tariffCode": "NOTAPPLIC",
+    "nemTime": "2026-09-23T12:30:00+10:00",
+    "perKwh": 12.62423,
+    "renewables": 58.208000000000006,
+    "descriptor": "high"
+  },
+  {
+    "postcode": "2145",
+    "networks": [
+      "Endeavour Energy"
+    ],
+    "direction": "feed_in",
+    "network": "Endeavour Energy",
+    "tariffCode": "NOTAPPLIC",
+    "nemTime": "2026-09-23T13:00:00+10:00",
+    "perKwh": 11.52067,
+    "renewables": 61.622,
+    "descriptor": "high"
+  },
+  {
+    "postcode": "2145",
+    "networks": [
+      "Endeavour Energy"
+    ],
+    "direction": "feed_in",
+    "network": "Endeavour Energy",
+    "tariffCode": "NOTAPPLIC",
+    "nemTime": "2026-09-23T13:30:00+10:00",
+    "perKwh": 11.23081,
+    "renewables": 60.629,
+    "descriptor": "high"
+  },
+  {
+    "postcode": "2145",
+    "networks": [
+      "Endeavour Energy"
+    ],
+    "direction": "feed_in",
+    "network": "Endeavour Energy",
+    "tariffCode": "NOTAPPLIC",
+    "nemTime": "2026-09-23T14:00:00+10:00",
+    "perKwh": 11.04259,
+    "renewables": 61.536,
+    "descriptor": "high"
+  },
+  {
+    "postcode": "2145",
+    "networks": [
+      "Endeavour Energy"
+    ],
+    "direction": "feed_in",
+    "network": "Endeavour Energy",
+    "tariffCode": "NOTAPPLIC",
+    "nemTime": "2026-09-23T14:30:00+10:00",
+    "perKwh": 10.90035,
+    "renewables": 61.015,
+    "descriptor": "high"
+  },
+  {
+    "postcode": "2145",
+    "networks": [
+      "Endeavour Energy"
+    ],
+    "direction": "feed_in",
+    "network": "Endeavour Energy",
+    "tariffCode": "NOTAPPLIC",
+    "nemTime": "2026-09-23T15:00:00+10:00",
+    "perKwh": 10.96074,
+    "renewables": 58.626999999999995,
+    "descriptor": "high"
+  },
+  {
+    "postcode": "2145",
+    "networks": [
+      "Endeavour Energy"
+    ],
+    "direction": "feed_in",
+    "network": "Endeavour Energy",
+    "tariffCode": "NOTAPPLIC",
+    "nemTime": "2026-09-23T15:30:00+10:00",
+    "perKwh": 11.66561,
+    "renewables": 56.494,
+    "descriptor": "high"
+  },
+  {
+    "postcode": "2145",
+    "networks": [
+      "Endeavour Energy"
+    ],
+    "direction": "feed_in",
+    "network": "Endeavour Energy",
+    "tariffCode": "NOTAPPLIC",
+    "nemTime": "2026-09-23T16:00:00+10:00",
+    "perKwh": 10.24263,
+    "renewables": 53.593,
+    "descriptor": "high"
+  },
+  {
+    "postcode": "2145",
+    "networks": [
+      "Endeavour Energy"
+    ],
+    "direction": "feed_in",
+    "network": "Endeavour Energy",
+    "tariffCode": "NOTAPPLIC",
+    "nemTime": "2026-09-23T16:30:00+10:00",
+    "perKwh": 11.476,
+    "renewables": 45.066,
+    "descriptor": "high"
+  },
+  {
+    "postcode": "2145",
+    "networks": [
+      "Endeavour Energy"
+    ],
+    "direction": "feed_in",
+    "network": "Endeavour Energy",
+    "tariffCode": "NOTAPPLIC",
+    "nemTime": "2026-09-23T17:00:00+10:00",
+    "perKwh": 13.53184,
+    "renewables": 34.447,
+    "descriptor": "high"
+  },
+  {
+    "postcode": "2145",
+    "networks": [
+      "Endeavour Energy"
+    ],
+    "direction": "feed_in",
+    "network": "Endeavour Energy",
+    "tariffCode": "NOTAPPLIC",
+    "nemTime": "2026-09-23T17:30:00+10:00",
+    "perKwh": 13.75891,
+    "renewables": 18.647,
+    "descriptor": "high"
+  },
+  {
+    "postcode": "2145",
+    "networks": [
+      "Endeavour Energy"
+    ],
+    "direction": "feed_in",
+    "network": "Endeavour Energy",
+    "tariffCode": "NOTAPPLIC",
+    "nemTime": "2026-09-23T18:00:00+10:00",
+    "perKwh": 13.45789,
+    "renewables": 6.6930000000000005,
+    "descriptor": "high"
+  },
+  {
+    "postcode": "2145",
+    "networks": [
+      "Endeavour Energy"
+    ],
+    "direction": "feed_in",
+    "network": "Endeavour Energy",
+    "tariffCode": "NOTAPPLIC",
+    "nemTime": "2026-09-23T18:30:00+10:00",
+    "perKwh": 12.98434,
+    "renewables": 7.297,
+    "descriptor": "high"
+  },
+  {
+    "postcode": "2145",
+    "networks": [
+      "Endeavour Energy"
+    ],
+    "direction": "feed_in",
+    "network": "Endeavour Energy",
+    "tariffCode": "NOTAPPLIC",
+    "nemTime": "2026-09-23T19:00:00+10:00",
+    "perKwh": 12.77673,
+    "renewables": 8.289,
+    "descriptor": "high"
+  },
+  {
+    "postcode": "2145",
+    "networks": [
+      "Endeavour Energy"
+    ],
+    "direction": "feed_in",
+    "network": "Endeavour Energy",
+    "tariffCode": "NOTAPPLIC",
+    "nemTime": "2026-09-23T19:30:00+10:00",
+    "perKwh": 12.39873,
+    "renewables": 8.859,
+    "descriptor": "high"
+  },
+  {
+    "postcode": "2145",
+    "networks": [
+      "Endeavour Energy"
+    ],
+    "direction": "feed_in",
+    "network": "Endeavour Energy",
+    "tariffCode": "NOTAPPLIC",
+    "nemTime": "2026-09-23T20:00:00+10:00",
+    "perKwh": 12.41569,
+    "renewables": 9.614,
+    "descriptor": "high"
+  },
+  {
+    "postcode": "2145",
+    "networks": [
+      "Endeavour Energy"
+    ],
+    "direction": "feed_in",
+    "network": "Endeavour Energy",
+    "tariffCode": "NOTAPPLIC",
+    "nemTime": "2026-09-23T20:30:00+10:00",
+    "perKwh": 12.75337,
+    "renewables": 8.869,
+    "descriptor": "high"
+  },
+  {
+    "postcode": "2145",
+    "networks": [
+      "Endeavour Energy"
+    ],
+    "direction": "feed_in",
+    "network": "Endeavour Energy",
+    "tariffCode": "NOTAPPLIC",
+    "nemTime": "2026-09-23T21:00:00+10:00",
+    "perKwh": 12.86458,
+    "renewables": 8.372,
+    "descriptor": "high"
+  },
+  {
+    "postcode": "2145",
+    "networks": [
+      "Endeavour Energy"
+    ],
+    "direction": "feed_in",
+    "network": "Endeavour Energy",
+    "tariffCode": "NOTAPPLIC",
+    "nemTime": "2026-09-23T21:30:00+10:00",
+    "perKwh": 12.30913,
+    "renewables": 9.313,
+    "descriptor": "high"
+  },
+  {
+    "postcode": "2145",
+    "networks": [
+      "Endeavour Energy"
+    ],
+    "direction": "feed_in",
+    "network": "Endeavour Energy",
+    "tariffCode": "NOTAPPLIC",
+    "nemTime": "2026-09-23T22:00:00+10:00",
+    "perKwh": 12.18336,
+    "renewables": 10.791,
+    "descriptor": "high"
+  },
+  {
+    "postcode": "2145",
+    "networks": [
+      "Endeavour Energy"
+    ],
+    "direction": "feed_in",
+    "network": "Endeavour Energy",
+    "tariffCode": "NOTAPPLIC",
+    "nemTime": "2026-09-23T22:30:00+10:00",
+    "perKwh": 11.94918,
+    "renewables": 12.55,
+    "descriptor": "high"
+  },
+  {
+    "postcode": "2145",
+    "networks": [
+      "Endeavour Energy"
+    ],
+    "direction": "feed_in",
+    "network": "Endeavour Energy",
+    "tariffCode": "NOTAPPLIC",
+    "nemTime": "2026-09-23T23:00:00+10:00",
+    "perKwh": 12.69863,
+    "renewables": 13.38,
+    "descriptor": "high"
+  },
+  {
+    "postcode": "2145",
+    "networks": [
+      "Endeavour Energy"
+    ],
+    "direction": "feed_in",
+    "network": "Endeavour Energy",
+    "tariffCode": "NOTAPPLIC",
+    "nemTime": "2026-09-23T23:30:00+10:00",
+    "perKwh": 14.37538,
+    "renewables": 13.269,
+    "descriptor": "high"
+  },
+  {
+    "postcode": "2145",
+    "networks": [
+      "Endeavour Energy"
+    ],
+    "direction": "feed_in",
+    "network": "Endeavour Energy",
+    "tariffCode": "NOTAPPLIC",
+    "nemTime": "2026-09-24T00:00:00+10:00",
+    "perKwh": 13.55224,
+    "renewables": 12.633,
+    "descriptor": "high"
+  },
+  {
+    "postcode": "2145",
+    "networks": [
+      "Endeavour Energy"
+    ],
+    "direction": "feed_in",
+    "network": "Endeavour Energy",
+    "tariffCode": "NOTAPPLIC",
+    "nemTime": "2026-09-24T00:30:00+10:00",
+    "perKwh": 21.78077,
+    "renewables": 11.679,
+    "descriptor": "high"
+  },
+  {
+    "postcode": "2145",
+    "networks": [
+      "Endeavour Energy"
+    ],
+    "direction": "feed_in",
+    "network": "Endeavour Energy",
+    "tariffCode": "NOTAPPLIC",
+    "nemTime": "2026-09-24T01:00:00+10:00",
+    "perKwh": 24.38016,
+    "renewables": 10.846,
+    "descriptor": "high"
+  },
+  {
+    "postcode": "2145",
+    "networks": [
+      "Endeavour Energy"
+    ],
+    "direction": "feed_in",
+    "network": "Endeavour Energy",
+    "tariffCode": "NOTAPPLIC",
+    "nemTime": "2026-09-24T01:30:00+10:00",
+    "perKwh": 20.28678,
+    "renewables": 10.587,
+    "descriptor": "high"
   }
 ]
