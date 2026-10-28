@@ -1,0 +1,610 @@
+{
+  "networks": [
+    "Endeavour Energy"
+  ],
+  "postcode": "2145",
+  "priceData": [
+    {
+      "tariffCode": "N71",
+      "network": "Endeavour Energy",
+      "intervals": [
+        {
+          "perKwh": 30.7436,
+          "renewables": 7.794,
+          "nemTime": "2026-10-28T02:30:00+10:00",
+          "descriptor": "veryLow"
+        },
+        {
+          "perKwh": 31.51838,
+          "renewables": 8.164,
+          "nemTime": "2026-10-28T03:00:00+10:00",
+          "descriptor": "veryLow"
+        },
+        {
+          "perKwh": 30.83275,
+          "renewables": 9.057,
+          "nemTime": "2026-10-28T03:30:00+10:00",
+          "descriptor": "veryLow"
+        },
+        {
+          "perKwh": 29.80768,
+          "renewables": 10.978,
+          "nemTime": "2026-10-28T04:00:00+10:00",
+          "descriptor": "veryLow"
+        },
+        {
+          "perKwh": 30.97401,
+          "renewables": 11.463,
+          "nemTime": "2026-10-28T04:30:00+10:00",
+          "descriptor": "veryLow"
+        },
+        {
+          "perKwh": 32.06587,
+          "renewables": 11.527999999999999,
+          "nemTime": "2026-10-28T05:00:00+10:00",
+          "descriptor": "veryLow"
+        },
+        {
+          "perKwh": 34.55346,
+          "renewables": 10.72,
+          "nemTime": "2026-10-28T05:30:00+10:00",
+          "descriptor": "low"
+        },
+        {
+          "perKwh": 30.16967,
+          "renewables": 18.919,
+          "nemTime": "2026-10-28T06:00:00+10:00",
+          "descriptor": "veryLow"
+        },
+        {
+          "perKwh": 26.42073,
+          "renewables": 31.416,
+          "nemTime": "2026-10-28T06:30:00+10:00",
+          "descriptor": "veryLow"
+        },
+        {
+          "perKwh": 23.18647,
+          "renewables": 46.013999999999996,
+          "nemTime": "2026-10-28T07:00:00+10:00",
+          "descriptor": "veryLow"
+        },
+        {
+          "perKwh": 23.42917,
+          "renewables": 56.289,
+          "nemTime": "2026-10-28T07:30:00+10:00",
+          "descriptor": "veryLow"
+        },
+        {
+          "perKwh": 22.10736,
+          "renewables": 67.917,
+          "nemTime": "2026-10-28T08:00:00+10:00",
+          "descriptor": "veryLow"
+        },
+        {
+          "perKwh": 22.47535,
+          "renewables": 79.965,
+          "nemTime": "2026-10-28T08:30:00+10:00",
+          "descriptor": "veryLow"
+        },
+        {
+          "perKwh": 23.67603,
+          "renewables": 87.709,
+          "nemTime": "2026-10-28T09:00:00+10:00",
+          "descriptor": "veryLow"
+        },
+        {
+          "perKwh": 15.37954,
+          "renewables": 94.497,
+          "nemTime": "2026-10-28T09:30:00+10:00",
+          "descriptor": "extremelyLow"
+        },
+        {
+          "perKwh": 15.42355,
+          "renewables": 99.35199999999999,
+          "nemTime": "2026-10-28T10:00:00+10:00",
+          "descriptor": "extremelyLow"
+        },
+        {
+          "perKwh": 16.08692,
+          "renewables": 101.031,
+          "nemTime": "2026-10-28T10:30:00+10:00",
+          "descriptor": "extremelyLow"
+        },
+        {
+          "perKwh": 16.59221,
+          "renewables": 102.691,
+          "nemTime": "2026-10-28T11:00:00+10:00",
+          "descriptor": "veryLow"
+        },
+        {
+          "perKwh": 16.77279,
+          "renewables": 104.403,
+          "nemTime": "2026-10-28T11:30:00+10:00",
+          "descriptor": "veryLow"
+        },
+        {
+          "perKwh": 17.04469,
+          "renewables": 103.195,
+          "nemTime": "2026-10-28T12:00:00+10:00",
+          "descriptor": "veryLow"
+        },
+        {
+          "perKwh": 17.9089,
+          "renewables": 102.57000000000001,
+          "nemTime": "2026-10-28T12:30:00+10:00",
+          "descriptor": "veryLow"
+        },
+        {
+          "perKwh": 18.02145,
+          "renewables": 103.13000000000001,
+          "nemTime": "2026-10-28T13:00:00+10:00",
+          "descriptor": "veryLow"
+        },
+        {
+          "perKwh": 24.60865,
+          "renewables": 103.28,
+          "nemTime": "2026-10-28T13:30:00+10:00",
+          "descriptor": "veryLow"
+        },
+        {
+          "perKwh": 25.52736,
+          "renewables": 101.685,
+          "nemTime": "2026-10-28T14:00:00+10:00",
+          "descriptor": "veryLow"
+        },
+        {
+          "perKwh": 24.77141,
+          "renewables": 98.249,
+          "nemTime": "2026-10-28T14:30:00+10:00",
+          "descriptor": "veryLow"
+        },
+        {
+          "perKwh": 23.81196,
+          "renewables": 95.99600000000001,
+          "nemTime": "2026-10-28T15:00:00+10:00",
+          "descriptor": "veryLow"
+        },
+        {
+          "perKwh": 29.13317,
+          "renewables": 93.384,
+          "nemTime": "2026-10-28T15:30:00+10:00",
+          "descriptor": "veryLow"
+        },
+        {
+          "perKwh": 29.68922,
+          "renewables": 84.21300000000001,
+          "nemTime": "2026-10-28T16:00:00+10:00",
+          "descriptor": "veryLow"
+        },
+        {
+          "perKwh": 28.83878,
+          "renewables": 76.288,
+          "nemTime": "2026-10-28T16:30:00+10:00",
+          "descriptor": "veryLow"
+        },
+        {
+          "perKwh": 29.91723,
+          "renewables": 63.244,
+          "nemTime": "2026-10-28T17:00:00+10:00",
+          "descriptor": "veryLow"
+        },
+        {
+          "perKwh": 32.2957,
+          "renewables": 49.001,
+          "nemTime": "2026-10-28T17:30:00+10:00",
+          "descriptor": "veryLow"
+        },
+        {
+          "perKwh": 33.88605,
+          "renewables": 28.42,
+          "nemTime": "2026-10-28T18:00:00+10:00",
+          "descriptor": "low"
+        },
+        {
+          "perKwh": 33.69034,
+          "renewables": 13.622,
+          "nemTime": "2026-10-28T18:30:00+10:00",
+          "descriptor": "low"
+        },
+        {
+          "perKwh": 34.05096,
+          "renewables": 11.304,
+          "nemTime": "2026-10-28T19:00:00+10:00",
+          "descriptor": "low"
+        },
+        {
+          "perKwh": 30.37895,
+          "renewables": 11.44,
+          "nemTime": "2026-10-28T19:30:00+10:00",
+          "descriptor": "veryLow"
+        },
+        {
+          "perKwh": 30.48186,
+          "renewables": 12.075,
+          "nemTime": "2026-10-28T20:00:00+10:00",
+          "descriptor": "veryLow"
+        },
+        {
+          "perKwh": 30.69057,
+          "renewables": 12.145999999999999,
+          "nemTime": "2026-10-28T20:30:00+10:00",
+          "descriptor": "veryLow"
+        },
+        {
+          "perKwh": 29.88789,
+          "renewables": 12.124,
+          "nemTime": "2026-10-28T21:00:00+10:00",
+          "descriptor": "veryLow"
+        },
+        {
+          "perKwh": 30.57519,
+          "renewables": 11.790000000000001,
+          "nemTime": "2026-10-28T21:30:00+10:00",
+          "descriptor": "veryLow"
+        },
+        {
+          "perKwh": 30.71726,
+          "renewables": 10.93,
+          "nemTime": "2026-10-28T22:00:00+10:00",
+          "descriptor": "veryLow"
+        },
+        {
+          "perKwh": 30.66723,
+          "renewables": 10.024,
+          "nemTime": "2026-10-28T22:30:00+10:00",
+          "descriptor": "veryLow"
+        },
+        {
+          "perKwh": 30.54438,
+          "renewables": 8.491,
+          "nemTime": "2026-10-28T23:00:00+10:00",
+          "descriptor": "veryLow"
+        },
+        {
+          "perKwh": 32.81365,
+          "renewables": 8.087,
+          "nemTime": "2026-10-28T23:30:00+10:00",
+          "descriptor": "veryLow"
+        },
+        {
+          "perKwh": 31.74279,
+          "renewables": 7.99,
+          "nemTime": "2026-10-29T00:00:00+10:00",
+          "descriptor": "veryLow"
+        },
+        {
+          "perKwh": 31.72551,
+          "renewables": 7.568,
+          "nemTime": "2026-10-29T00:30:00+10:00",
+          "descriptor": "veryLow"
+        },
+        {
+          "perKwh": 31.04628,
+          "renewables": 7.3950000000000005,
+          "nemTime": "2026-10-29T01:00:00+10:00",
+          "descriptor": "veryLow"
+        },
+        {
+          "perKwh": 31.09642,
+          "renewables": 7.2010000000000005,
+          "nemTime": "2026-10-29T01:30:00+10:00",
+          "descriptor": "veryLow"
+        },
+        {
+          "perKwh": 30.73678,
+          "renewables": 7.144,
+          "nemTime": "2026-10-29T02:00:00+10:00",
+          "descriptor": "veryLow"
+        },
+        {
+          "perKwh": 31.78262,
+          "renewables": 7.069,
+          "nemTime": "2026-10-29T02:30:00+10:00",
+          "descriptor": "veryLow"
+        }
+      ]
+    }
+  ],
+  "feedInPriceData": [
+    {
+      "tariffCode": "NOTAPPLIC",
+      "network": "Endeavour Energy",
+      "intervals": [
+        {
+          "perKwh": 13.24753,
+          "renewables": 7.794,
+          "nemTime": "2026-10-28T02:30:00+10:00",
+          "descriptor": "high"
+        },
+        {
+          "perKwh": 13.95188,
+          "renewables": 8.164,
+          "nemTime": "2026-10-28T03:00:00+10:00",
+          "descriptor": "high"
+        },
+        {
+          "perKwh": 13.32858,
+          "renewables": 9.057,
+          "nemTime": "2026-10-28T03:30:00+10:00",
+          "descriptor": "high"
+        },
+        {
+          "perKwh": 12.39669,
+          "renewables": 10.978,
+          "nemTime": "2026-10-28T04:00:00+10:00",
+          "descriptor": "high"
+        },
+        {
+          "perKwh": 13.45699,
+          "renewables": 11.463,
+          "nemTime": "2026-10-28T04:30:00+10:00",
+          "descriptor": "high"
+        },
+        {
+          "perKwh": 14.44959,
+          "renewables": 11.527999999999999,
+          "nemTime": "2026-10-28T05:00:00+10:00",
+          "descriptor": "high"
+        },
+        {
+          "perKwh": 16.71104,
+          "renewables": 10.72,
+          "nemTime": "2026-10-28T05:30:00+10:00",
+          "descriptor": "high"
+        },
+        {
+          "perKwh": 12.72578,
+          "renewables": 18.919,
+          "nemTime": "2026-10-28T06:00:00+10:00",
+          "descriptor": "high"
+        },
+        {
+          "perKwh": 9.31764,
+          "renewables": 31.416,
+          "nemTime": "2026-10-28T06:30:00+10:00",
+          "descriptor": "high"
+        },
+        {
+          "perKwh": 6.37741,
+          "renewables": 46.013999999999996,
+          "nemTime": "2026-10-28T07:00:00+10:00",
+          "descriptor": "high"
+        },
+        {
+          "perKwh": 6.59805,
+          "renewables": 56.289,
+          "nemTime": "2026-10-28T07:30:00+10:00",
+          "descriptor": "high"
+        },
+        {
+          "perKwh": 5.3964,
+          "renewables": 67.917,
+          "nemTime": "2026-10-28T08:00:00+10:00",
+          "descriptor": "high"
+        },
+        {
+          "perKwh": 5.73094,
+          "renewables": 79.965,
+          "nemTime": "2026-10-28T08:30:00+10:00",
+          "descriptor": "high"
+        },
+        {
+          "perKwh": 6.82247,
+          "renewables": 87.709,
+          "nemTime": "2026-10-28T09:00:00+10:00",
+          "descriptor": "high"
+        },
+        {
+          "perKwh": 6.4787,
+          "renewables": 94.497,
+          "nemTime": "2026-10-28T09:30:00+10:00",
+          "descriptor": "high"
+        },
+        {
+          "perKwh": 6.51871,
+          "renewables": 99.35199999999999,
+          "nemTime": "2026-10-28T10:00:00+10:00",
+          "descriptor": "high"
+        },
+        {
+          "perKwh": 7.12178,
+          "renewables": 101.031,
+          "nemTime": "2026-10-28T10:30:00+10:00",
+          "descriptor": "high"
+        },
+        {
+          "perKwh": 7.58113,
+          "renewables": 102.691,
+          "nemTime": "2026-10-28T11:00:00+10:00",
+          "descriptor": "high"
+        },
+        {
+          "perKwh": 7.74529,
+          "renewables": 104.403,
+          "nemTime": "2026-10-28T11:30:00+10:00",
+          "descriptor": "high"
+        },
+        {
+          "perKwh": 7.99247,
+          "renewables": 103.195,
+          "nemTime": "2026-10-28T12:00:00+10:00",
+          "descriptor": "high"
+        },
+        {
+          "perKwh": 8.77812,
+          "renewables": 102.57000000000001,
+          "nemTime": "2026-10-28T12:30:00+10:00",
+          "descriptor": "high"
+        },
+        {
+          "perKwh": 8.88044,
+          "renewables": 103.13000000000001,
+          "nemTime": "2026-10-28T13:00:00+10:00",
+          "descriptor": "high"
+        },
+        {
+          "perKwh": 7.6703,
+          "renewables": 103.28,
+          "nemTime": "2026-10-28T13:30:00+10:00",
+          "descriptor": "high"
+        },
+        {
+          "perKwh": 8.50549,
+          "renewables": 101.685,
+          "nemTime": "2026-10-28T14:00:00+10:00",
+          "descriptor": "high"
+        },
+        {
+          "perKwh": 7.81827,
+          "renewables": 98.249,
+          "nemTime": "2026-10-28T14:30:00+10:00",
+          "descriptor": "high"
+        },
+        {
+          "perKwh": 6.94603,
+          "renewables": 95.99600000000001,
+          "nemTime": "2026-10-28T15:00:00+10:00",
+          "descriptor": "high"
+        },
+        {
+          "perKwh": 8.3133,
+          "renewables": 93.384,
+          "nemTime": "2026-10-28T15:30:00+10:00",
+          "descriptor": "high"
+        },
+        {
+          "perKwh": 8.8188,
+          "renewables": 84.21300000000001,
+          "nemTime": "2026-10-28T16:00:00+10:00",
+          "descriptor": "high"
+        },
+        {
+          "perKwh": 8.04567,
+          "renewables": 76.288,
+          "nemTime": "2026-10-28T16:30:00+10:00",
+          "descriptor": "high"
+        },
+        {
+          "perKwh": 9.02608,
+          "renewables": 63.244,
+          "nemTime": "2026-10-28T17:00:00+10:00",
+          "descriptor": "high"
+        },
+        {
+          "perKwh": 11.18833,
+          "renewables": 49.001,
+          "nemTime": "2026-10-28T17:30:00+10:00",
+          "descriptor": "high"
+        },
+        {
+          "perKwh": 12.6341,
+          "renewables": 28.42,
+          "nemTime": "2026-10-28T18:00:00+10:00",
+          "descriptor": "high"
+        },
+        {
+          "perKwh": 12.45619,
+          "renewables": 13.622,
+          "nemTime": "2026-10-28T18:30:00+10:00",
+          "descriptor": "high"
+        },
+        {
+          "perKwh": 12.78402,
+          "renewables": 11.304,
+          "nemTime": "2026-10-28T19:00:00+10:00",
+          "descriptor": "high"
+        },
+        {
+          "perKwh": 12.91602,
+          "renewables": 11.44,
+          "nemTime": "2026-10-28T19:30:00+10:00",
+          "descriptor": "high"
+        },
+        {
+          "perKwh": 13.00958,
+          "renewables": 12.075,
+          "nemTime": "2026-10-28T20:00:00+10:00",
+          "descriptor": "high"
+        },
+        {
+          "perKwh": 13.19932,
+          "renewables": 12.145999999999999,
+          "nemTime": "2026-10-28T20:30:00+10:00",
+          "descriptor": "high"
+        },
+        {
+          "perKwh": 12.46961,
+          "renewables": 12.124,
+          "nemTime": "2026-10-28T21:00:00+10:00",
+          "descriptor": "high"
+        },
+        {
+          "perKwh": 13.09443,
+          "renewables": 11.790000000000001,
+          "nemTime": "2026-10-28T21:30:00+10:00",
+          "descriptor": "high"
+        },
+        {
+          "perKwh": 13.22358,
+          "renewables": 10.93,
+          "nemTime": "2026-10-28T22:00:00+10:00",
+          "descriptor": "high"
+        },
+        {
+          "perKwh": 13.1781,
+          "renewables": 10.024,
+          "nemTime": "2026-10-28T22:30:00+10:00",
+          "descriptor": "high"
+        },
+        {
+          "perKwh": 13.06641,
+          "renewables": 8.491,
+          "nemTime": "2026-10-28T23:00:00+10:00",
+          "descriptor": "high"
+        },
+        {
+          "perKwh": 15.1294,
+          "renewables": 8.087,
+          "nemTime": "2026-10-28T23:30:00+10:00",
+          "descriptor": "high"
+        },
+        {
+          "perKwh": 14.15589,
+          "renewables": 7.99,
+          "nemTime": "2026-10-29T00:00:00+10:00",
+          "descriptor": "high"
+        },
+        {
+          "perKwh": 14.14017,
+          "renewables": 7.568,
+          "nemTime": "2026-10-29T00:30:00+10:00",
+          "descriptor": "high"
+        },
+        {
+          "perKwh": 13.52269,
+          "renewables": 7.3950000000000005,
+          "nemTime": "2026-10-29T01:00:00+10:00",
+          "descriptor": "high"
+        },
+        {
+          "perKwh": 13.56827,
+          "renewables": 7.2010000000000005,
+          "nemTime": "2026-10-29T01:30:00+10:00",
+          "descriptor": "high"
+        },
+        {
+          "perKwh": 13.24133,
+          "renewables": 7.144,
+          "nemTime": "2026-10-29T02:00:00+10:00",
+          "descriptor": "high"
+        },
+        {
+          "perKwh": 14.19209,
+          "renewables": 7.069,
+          "nemTime": "2026-10-29T02:30:00+10:00",
+          "descriptor": "high"
+        }
+      ]
+    }
+  ]
+}
